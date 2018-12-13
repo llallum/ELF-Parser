@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1544701151 source:/root/Desktop/ELF Parser/ELF Parser/main.c
+	<stdio.h>
+	<stdlib.h>
+	<elf.h>
+	<fcntl.h>
+	<errno.h>
+	<sys/stat.h>
+	<sys/mman.h>
+
